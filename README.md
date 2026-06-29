@@ -1,5 +1,6 @@
 Openfront.io Lobbies,
 This script requires Tampermonkey
+https://www.tampermonkey.net
 
 Parts of this code is part of Project Blon.
 All macros have been removed
