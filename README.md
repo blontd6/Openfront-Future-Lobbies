@@ -1,6 +1,8 @@
 Openfront.io Lobbies,
 This script requires Tampermonkey
+
 https://www.tampermonkey.net
+
 
 Parts of this code is part of Project Blon.
 All macros have been removed
@@ -19,7 +21,11 @@ This script does
   - Adds copy link button to future lobbies
   - When joining a future lobby it also copys the link to your clipboard
 
-
-
+This script does NOT
+  - Allow macros in game
+  - cheating in game
+  - contact external servers ( except openfront.io )
+  - use cookies
+  - read clipboard
 
 Say hi to blon if you see him. tell him his hair is nice or something
