@@ -28,4 +28,6 @@ This script does NOT
   - use cookies
   - read clipboard
 
+    ---DO NOT USE THE SEZIURES VERSION---
+
 Say hi to blon if you see him. tell him his hair is nice or something
