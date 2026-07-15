@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Openfront Future Lobbies Grid
+// @name        Sezure version | future lobbies
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Do not use, epileptic seizure inbound
