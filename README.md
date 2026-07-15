@@ -8,7 +8,7 @@ Parts of this code is part of Project Blon.
 All macros have been removed
 
 To install this script, 
-  - download .txt version
+  - download Openfront Future Lobbies Grid-1.2.user.txt version
   - Tampermonkey Utlities
   - Import from file
   - Install
